@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tempratureCalculaterTute2</string>
+    <string name="tvTitle">Temperature Calculator</string>
+    <string name="et_temp">Enter Temperature</string>
+    <string name="rd_btn_C">Celcius</string>
+    <string name="rd_btn_F">Fahrennite</string>
+    <string name="btn_calculate">CALCULATE</string>
+</resources>
